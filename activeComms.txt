@@ -1,0 +1,3 @@
+script=false
+gfx=true
+bot=true
