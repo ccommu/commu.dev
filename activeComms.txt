@@ -1,3 +1,3 @@
-script=false
-gfx=false
-bot=false
+script=true
+gfx=true
+bot=true
